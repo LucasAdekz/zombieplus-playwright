@@ -1,0 +1,82 @@
+{
+    "create": {
+        "title": "Guerra Mundial Z",
+        "overview": "Um ex-investigador da ONU, Gerry Lane, percorre o mundo em uma corrida contra o tempo para parar uma pandemia zumbi que está derrotando exércitos e colapsando governos, antes que possa acabar com a humanidade.",
+        "company": "Paramount Pictures",
+        "release_year": 2013,
+        "featured": false,
+        "cover": "images/guerra_mundial_z.png"
+    },
+    "filme_2": {
+        "title": "Resident Evil",
+        "overview": "Uma equipe de comando é enviada para a colmeia, uma instalação subterrânea de pesquisa genética, para lidar com o vazamento de um vírus que transforma as pessoas em zumbis.",
+        "company": "Constantin Film",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "images/resident_evil.png"
+    },
+    "filme_3": {
+        "title": "Exterminio",
+        "overview": "Vinte e oito dias após um vírus letal ser liberado em Londres, um grupo de sobreviventes tenta encontrar refúgio e uma cura para a infecção.",
+        "company": "Fox Searchlight Pictures",
+        "release_year": 2002,
+        "featured": false,
+        "cover": "images/exterminio.png"
+    },
+    "filme_4": {
+        "title": "a_noite_dos_mortos_vivos",
+        "overview": "Um grupo de pessoas se refugia em uma casa isolada para escapar de zumbis canibais que estão à solta após um satélite se desintegrar na atmosfera da Terra.",
+        "company": "The Walter Reade Organization",
+        "release_year": 1968,
+        "featured": false,
+        "cover": "images/noite_mortos_vivos.png"
+    },
+    "filme_5": {
+        "title": "zumbilandia",
+        "overview": "Em um mundo pós-apocalíptico dominado por zumbis, quatro sobreviventes improváveis se unem em uma jornada para encontrar um lugar seguro.",
+        "company": "Columbia Pictures",
+        "release_year": 2009,
+        "featured": false,
+        "cover": "images/zumbilandia.png"
+    },
+    "filme_6": {
+        "title": "madrugada_dos_mortos",
+        "overview": "Um grupo de sobreviventes se esconde em um shopping center após um surto de zumbis, mas logo percebe que o verdadeiro perigo pode estar dentro do próprio shopping.",
+        "company": "Universal Pictures",
+        "release_year": 2004,
+        "featured": false,
+        "cover": "images/madrugada_dos_mortos.png"
+    },
+    "filme_7": {
+        "title": "re_animator",
+        "overview": "Um estudante de medicina desenvolve um soro que traz os mortos de volta à vida, mas as consequências são catastróficas.",
+        "company": "Empire International Pictures",
+        "release_year": 1985,
+        "featured": false,
+        "cover": "images/re_animator.png"
+    },
+    "filme_8": {
+        "title": "rec",
+        "overview": "Uma repórter de TV e seu cinegrafista ficam presos dentro de um edifício durante uma quarentena mortal e documentam o surto de uma infecção zumbi.",
+        "company": "Filmax",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "images/rec.png"
+    },
+    "filme_9": {
+        "title": "exterminio_2",
+        "overview": "Seis meses após o primeiro surto do vírus Rage, o exército dos EUA ajuda a garantir a segurança de Londres, mas o vírus retorna com força total.",
+        "company": "Fox Atomic",
+        "release_year": 2007,
+        "featured": false,
+        "cover": "images/exterminio_2.png"
+    },
+    "filme_10": {
+        "title": "o_dia_dos_mortos",
+        "overview": "Em um mundo pós-apocalíptico dominado por zumbis, um pequeno grupo de cientistas e militares tenta encontrar uma solução para a praga.",
+        "company": "United Film Distribution Company",
+        "release_year": 1985,
+        "featured": false,
+        "cover": "images/dia_dos_mortos.png"
+    }
+}
